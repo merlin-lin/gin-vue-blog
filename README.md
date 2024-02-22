@@ -10,7 +10,7 @@
 
 <p align=center>
 <a href="http://www.hahacode.cn">
-<img src="./images/头像.jpeg"  width="200" hight="200" alt="阵、雨的个人博客" style="border-radius: 50%">
+<img src="./images/头像.jpeg"  width="200" hight="200" alt="Merlin的个人博客" style="border-radius: 50%">
 </a>
 </p>
 

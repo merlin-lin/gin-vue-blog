@@ -87,10 +87,10 @@ func generateDefaultConfigs(db *gorm.DB) {
 
 	configs := []model.Config{
 		{Key: "website_avatar", Value: "https://foruda.gitee.com/avatar/1677041571085433939/5221991_szluyu99_1614389421.png", Desc: "网站头像"},
-		{Key: "website_name", Value: "阵雨的个人博客", Desc: "网站名称"},
-		{Key: "website_author", Value: "阵雨", Desc: "网站作者"},
+		{Key: "website_name", Value: "Merlin的个人博客", Desc: "网站名称"},
+		{Key: "website_author", Value: "Merlin", Desc: "网站作者"},
 		{Key: "website_intro", Value: "往事随风而去", Desc: "网站介绍"},
-		{Key: "website_notice", Value: "欢迎来到阵雨的个人博客，项目还在开发中...", Desc: "网站公告"},
+		{Key: "website_notice", Value: "欢迎来到Merlin的个人博客，项目还在开发中...", Desc: "网站公告"},
 		{Key: "website_createtime", Value: time.Now().Format(time.DateTime), Desc: "网站创建日期"},
 		{Key: "website_record", Value: "粤ICP备2021032312号", Desc: "网站备案号"},
 		{Key: "qq", Value: "123456789", Desc: "QQ"},
